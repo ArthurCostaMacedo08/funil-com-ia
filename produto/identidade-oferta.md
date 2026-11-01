@@ -17,7 +17,7 @@ Apresentação pública: “Na jornada 40 Dias de Restauração com Santa Mônic
 
 Um único e-book em PDF, com 40 encontros de três páginas. Inclui 40 ilustrações de abertura, história ou introdução espiritual, reflexão, oração tradicional completa por dia, 40 preces curtas originais identificadas, prática breve, diário integrado, passagens bíblicas e referências oficiais. Oração dirigida a Santa Mônica na abertura e no Dia 40, identificada como texto original do livro, sem atribuição de autoria à santa ou de aprovação eclesiástica. Caixa de apoio no Brasil com CVV, CAPS AD e SAMU.
 
-O diário e as preces fazem parte do mesmo PDF. Não anunciar nove encontros adicionais, novena, livro complementar, áudio ou outros bônus como entregues enquanto não existirem. Preço, prazo de acesso, garantia, checkout e áudio da página continuam pendentes conforme a decisão do usuário.
+O diário e as preces fazem parte do mesmo PDF. Não anunciar nove encontros adicionais, novena, livro complementar, áudio ou outros bônus como entregues enquanto não existirem. Preço, prazo de acesso, garantia e checkout continuam pendentes conforme a decisão do usuário. O MP3 da oração guiada já foi enviado e incorporado ao quiz, com transcrição correspondente e identificação de voz gerada por IA.
 
 Os 40 dias são a organização editorial. Não prometem conversão, cura, libertação ou proteção absoluta dentro de um prazo. O apoio espiritual acompanha o cuidado de saúde; não o substitui.
 
@@ -25,3 +25,4 @@ Os 40 dias são a organização editorial. Não prometem conversão, cura, liber
 ## Direção visual de Santa Mônica
 
 Nas representações da jornada, usar a figura de viúva, com véu e manto escuros, expressões serenas e livro nas mãos. A capa do PDF, a miniatura da oferta e a abertura seguem essa direção. A etapa histórica usa uma imagem horizontal diferente. Todas são representações artísticas, sem pretensão de retrato documental. Manter essa direção também nos próximos criativos.
+

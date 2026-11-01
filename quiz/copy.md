@@ -20,7 +20,7 @@ A caixa de apoio apresenta CVV 188 (gratuito, 24 horas), CAPS AD (cuidado gratui
 
 ## Pendências confirmadas pelo usuário
 
-Preço, garantia e prazo de acesso serão definidos depois. Checkout próprio e áudio também aguardam envio. Nenhuma compra é iniciada enquanto preço e checkout não forem configurados. Quando houver áudio, o avanço fica bloqueado até o evento real de término da reprodução. Enquanto não houver arquivo, a oração escrita permite revisar o fluxo.
+Preço, garantia e prazo de acesso serão definidos depois. O checkout próprio aguarda definição. O MP3 do ElevenLabs já está incorporado. Nenhuma compra é iniciada enquanto preço e checkout não forem configurados. O avanço fica bloqueado até o evento real de término da reprodução do MP3. A transcrição enviada pelo usuário aparece em “Ler a oração”, sem personalização que a afaste do áudio.
 
 Tudo é editado no objeto `CONFIGURACAO`, dentro do próprio HTML. Campos: `audioURL`, `checkoutURL`, `precoBRL`, `garantiaDias`, `acessoDias`, `vendedor`, `suporteEmail`, `entregaveis`. O áudio pode ser incorporado em base64 para manter o arquivo único. A transcrição da tela de oração deve corresponder à gravação final.
 
@@ -40,13 +40,20 @@ Os prints orientaram proporções e espaçamento, mantendo textos, imagens e sel
 
 ## Revisão de iconografia e relato autorizado
 
-A abertura usa uma representação original de Santa Mônica como viúva, com véu e manto escuros e um livro nas mãos. A etapa histórica usa outra composição, horizontal, adaptada da imagem enviada pelo usuário, sem cajado e com roupa escura. A miniatura do livro usa a mesma arte da nova capa do PDF. O player de áudio usa um símbolo de cruz, sem repetir o retrato. As imagens ficam incorporadas em SVG com recortes nativos; o HTML continua independente.
+A abertura usa uma representação original de Santa Mônica como viúva, com véu e manto escuros e um livro nas mãos. A etapa histórica usa outra composição, horizontal, adaptada da imagem enviada pelo usuário, sem cajado e com roupa escura. A miniatura do livro usa a mesma arte da nova capa do PDF. O player usa a foto ilustrativa do sacerdote enviada em arquivo pelo usuário, acompanhada da identificação de narração gerada por IA. As imagens ficam incorporadas em SVG com recortes nativos; o HTML continua independente.
 
-O relato sobre oração e diálogo no casamento foi incluído em texto, com trechos fiéis ao print. O usuário confirmou ser de uma cliente real da oferta e ter autorização de publicação. A foto original aguarda o print em arquivo JPG/PNG para incorporação sem alteração. Não foram criados nomes, avaliações, estatísticas ou fotos de clientes.
+O print original do casal foi incorporado ao bloco final de compra, com trechos em texto dentro de um painel expansível para facilitar a leitura. O usuário confirmou ser de uma cliente real da oferta e ter autorização de publicação. A imagem foi convertida para WebP sem perdas, com igualdade dos pixels verificada em relação ao PNG recebido no ZIP. Não foram criados nomes, avaliações, estatísticas ou fotos de clientes.
 
-O arquivo de áudio MP3 ainda não foi enviado. O player mantém o bloqueio real até o término quando um áudio for configurado.
+O MP3 recebido foi incorporado sem alterações de bytes. A duração é de aproximadamente 1 minuto e 23 segundos. O player reproduz, pausa e só libera a próxima etapa após o evento real de fim do áudio.
 
 
 ## Ajuste do bloco final de compra
 
-A abertura recebeu um retrato de Santa Mônica com expressão acolhedora, sorriso discreto e iluminação mais clara, mantendo véu e manto escuros. O relato foi movido para dentro do cartão final de compra, depois das perguntas frequentes, imediatamente antes do preço e do único botão de checkout. A foto original continua aguardando arquivo ou link de download; a autorização do casal já foi confirmada pelo usuário.
+A abertura recebeu um retrato de Santa Mônica com expressão acolhedora, sorriso discreto e iluminação mais clara, mantendo véu e manto escuros. O relato foi movido para dentro do cartão final de compra, depois das perguntas frequentes, imediatamente antes do preço e do único botão de checkout. A imagem original do print está incluída; a autorização do casal já foi confirmada pelo usuário.
+
+
+## Integração dos arquivos recebidos
+
+O HTML contém o print original, o MP3, a foto ilustrativa do sacerdote e a transcrição exata fornecida pelo usuário. A narração é identificada como gerada por IA, sem atribuição de gravação ao sacerdote. A foto original do casal teve seus pixels preservados integralmente. Todos os recursos estão incorporados no HTML, sem requisições externas para funcionar.
+
+Verificação com o MP3 real: reprodução e pausa; bloqueio mantido antes do fim; liberação somente após o fim; transcrição conferida; avatar carregado; print antes do checkout; larguras 320, 390 e 737 px; sem erros de JavaScript. O teste de reprodução usou velocidade acelerada apenas no navegador de teste; o arquivo e a velocidade padrão entregue continuam originais.
