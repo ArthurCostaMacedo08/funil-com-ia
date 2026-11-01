@@ -45,3 +45,8 @@ A abertura usa uma representação original de Santa Mônica como viúva, com v�
 O relato sobre oração e diálogo no casamento foi incluído em texto, com trechos fiéis ao print. O usuário confirmou ser de uma cliente real da oferta e ter autorização de publicação. A foto original aguarda o print em arquivo JPG/PNG para incorporação sem alteração. Não foram criados nomes, avaliações, estatísticas ou fotos de clientes.
 
 O arquivo de áudio MP3 ainda não foi enviado. O player mantém o bloqueio real até o término quando um áudio for configurado.
+
+
+## Ajuste do bloco final de compra
+
+A abertura recebeu um retrato de Santa Mônica com expressão acolhedora, sorriso discreto e iluminação mais clara, mantendo véu e manto escuros. O relato foi movido para dentro do cartão final de compra, depois das perguntas frequentes, imediatamente antes do preço e do único botão de checkout. A foto original continua aguardando arquivo ou link de download; a autorização do casal já foi confirmada pelo usuário.
