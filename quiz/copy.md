@@ -20,7 +20,7 @@ A caixa de apoio apresenta CVV 188 (gratuito, 24 horas), CAPS AD (cuidado gratui
 
 ## Pendências confirmadas pelo usuário
 
-Preço, garantia e prazo de acesso serão definidos depois. O checkout próprio aguarda definição. O MP3 do ElevenLabs já está incorporado. Nenhuma compra é iniciada enquanto preço e checkout não forem configurados. O avanço fica bloqueado até o evento real de término da reprodução do MP3. A transcrição enviada pelo usuário aparece em “Ler a oração”, sem personalização que a afaste do áudio.
+Preço, garantia e prazo de acesso serão definidos depois. O checkout próprio aguarda definição. O MP3 do ElevenLabs já está incorporado. Nenhuma compra é iniciada enquanto preço e checkout não forem configurados. O avanço fica bloqueado até a reprodução terminar ou a pessoa mover a faixa até o fim do MP3. A transcrição enviada pelo usuário aparece em “Ler a oração”, sem personalização que a afaste do áudio.
 
 Tudo é editado no objeto `CONFIGURACAO`, dentro do próprio HTML. Campos: `audioURL`, `checkoutURL`, `precoBRL`, `garantiaDias`, `acessoDias`, `vendedor`, `suporteEmail`, `entregaveis`. O áudio pode ser incorporado em base64 para manter o arquivo único. A transcrição da tela de oração deve corresponder à gravação final.
 
@@ -44,7 +44,7 @@ A abertura usa uma representação original de Santa Mônica como viúva, com v�
 
 O print original do casal foi incorporado ao bloco final de compra, com trechos em texto dentro de um painel expansível para facilitar a leitura. O usuário confirmou ser de uma cliente real da oferta e ter autorização de publicação. A imagem foi convertida para WebP sem perdas, com igualdade dos pixels verificada em relação ao PNG recebido no ZIP. Não foram criados nomes, avaliações, estatísticas ou fotos de clientes.
 
-O MP3 recebido foi incorporado sem alterações de bytes. A duração é de aproximadamente 1 minuto e 23 segundos. O player reproduz, pausa e só libera a próxima etapa após o evento real de fim do áudio.
+O MP3 recebido foi incorporado sem alterações de bytes. A duração é de aproximadamente 1 minuto e 23 segundos. O player reproduz, pausa, mostra tempo atual e duração, e permite avançar ou retroceder pela faixa. A próxima etapa libera ao terminar a reprodução ou ao posicionar a faixa no fim.
 
 
 ## Ajuste do bloco final de compra
@@ -56,4 +56,7 @@ A abertura recebeu um retrato de Santa Mônica com expressão acolhedora, sorris
 
 O HTML contém o print original, o MP3, a foto ilustrativa do sacerdote e a transcrição exata fornecida pelo usuário. A narração é identificada como gerada por IA, sem atribuição de gravação ao sacerdote. A foto original do casal teve seus pixels preservados integralmente. Todos os recursos estão incorporados no HTML, sem requisições externas para funcionar.
 
-Verificação com o MP3 real: reprodução e pausa; bloqueio mantido antes do fim; liberação somente após o fim; transcrição conferida; avatar carregado; print antes do checkout; larguras 320, 390 e 737 px; sem erros de JavaScript. O teste de reprodução usou velocidade acelerada apenas no navegador de teste; o arquivo e a velocidade padrão entregue continuam originais.
+Verificação com o MP3 real: reprodução e pausa; bloqueio mantido antes do fim; liberação no fim por reprodução ou navegação pela faixa; transcrição conferida; avatar carregado; print antes do checkout; larguras 320, 390 e 737 px; sem erros de JavaScript. O teste de reprodução usou velocidade acelerada apenas no navegador de teste; o arquivo e a velocidade padrão entregue continuam originais.
+
+
+A faixa permite clique, arraste e navegação por teclado. O progresso aparece nas ondas e no tempo decorrido. O aviso de voz gerada por IA e foto ilustrativa fica dentro de “Ler a oração”, oculto enquanto o painel está fechado.
