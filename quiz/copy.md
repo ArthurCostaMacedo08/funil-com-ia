@@ -36,3 +36,12 @@ Navegação completa das 11 telas e dos seis resultados; nome e pedido opcionais
 ## Revisão visual solicitada
 
 Os prints orientaram proporções e espaçamento, mantendo textos, imagens e selo originais. As escolhas avançam automaticamente; o botão de retorno permite alterar respostas. O player de áudio tem reprodução e pausa, tempo decorrido e bloqueio de avanço até a conclusão quando houver gravação. Sem áudio, a oração escrita fica em um painel expansível. O HTML continua independente. A revisão foi gerada com `work/build_clean.py`.
+
+
+## Revisão de iconografia e relato autorizado
+
+A abertura usa uma representação original de Santa Mônica como viúva, com véu e manto escuros e um livro nas mãos. A etapa histórica usa outra composição, horizontal, adaptada da imagem enviada pelo usuário, sem cajado e com roupa escura. A miniatura do livro usa a mesma arte da nova capa do PDF. O player de áudio usa um símbolo de cruz, sem repetir o retrato. As imagens ficam incorporadas em SVG com recortes nativos; o HTML continua independente.
+
+O relato sobre oração e diálogo no casamento foi incluído em texto, com trechos fiéis ao print. O usuário confirmou ser de uma cliente real da oferta e ter autorização de publicação. A foto original aguarda o print em arquivo JPG/PNG para incorporação sem alteração. Não foram criados nomes, avaliações, estatísticas ou fotos de clientes.
+
+O arquivo de áudio MP3 ainda não foi enviado. O player mantém o bloqueio real até o término quando um áudio for configurado.

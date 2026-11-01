@@ -20,3 +20,8 @@ Um único e-book em PDF, com 40 encontros de três páginas. Inclui 40 ilustraç
 O diário e as preces fazem parte do mesmo PDF. Não anunciar nove encontros adicionais, novena, livro complementar, áudio ou outros bônus como entregues enquanto não existirem. Preço, prazo de acesso, garantia, checkout e áudio da página continuam pendentes conforme a decisão do usuário.
 
 Os 40 dias são a organização editorial. Não prometem conversão, cura, libertação ou proteção absoluta dentro de um prazo. O apoio espiritual acompanha o cuidado de saúde; não o substitui.
+
+
+## Direção visual de Santa Mônica
+
+Nas representações da jornada, usar a figura de viúva, com véu e manto escuros, expressões serenas e livro nas mãos. A capa do PDF, a miniatura da oferta e a abertura seguem essa direção. A etapa histórica usa uma imagem horizontal diferente. Todas são representações artísticas, sem pretensão de retrato documental. Manter essa direção também nos próximos criativos.
