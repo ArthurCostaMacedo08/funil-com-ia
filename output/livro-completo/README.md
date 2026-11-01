@@ -1,9 +1,15 @@
-# O Caminho das Lágrimas
+# 40 Dias de Restauração com Santa Mônica
 
-40 Dias de Intercessão com Santa Mônica.
+Livro da jornada: **O Caminho das Lágrimas: 40 Dias de Intercessão com Santa Mônica**.
 
-O arquivo `o-caminho-das-lagrimas-40-dias.pdf` contém o devocional completo: 140 páginas, quatro fases e três páginas por encontro. Cada dia traz ilustração própria, reflexão, oração tradicional completa, prática breve e diário. Texto principal e orações em 20 pontos. Sumário clicável, marcadores e referências com links oficiais ao final.
+Esta revisão do PDF tem 143 páginas e 40 encontros de três páginas. Preserva as orações tradicionais completas, acrescenta 40 preces curtas distintas e uma oração dirigida a Santa Mônica na abertura e no Dia 40. As preces autorais e a oração a Santa Mônica são identificadas como textos originais do livro; não são atribuídas à santa nem apresentadas como fórmulas litúrgicas.
 
-Conferências: 40 dias em sequência; conteúdo dos encontros e orações íntegros; fontes incorporadas; links internos válidos; páginas renderizadas e inspecionadas. As imagens são criações artísticas simbólicas.
+O PDF e o HTML usam as mesmas fases: As lágrimas sinceras; A força da persistência; O exemplo de vida; A entrega confiante. O diário e as preces são componentes do mesmo PDF. A página anuncia apenas o conteúdo já produzido.
 
-Para baixar, abra o PDF e use o botão de download do visualizador.
+A caixa de apoio no livro e na página apresenta CVV 188 (apoio emocional gratuito, 24h), CAPS AD (cuidado gratuito pelo SUS) e SAMU 192 (emergências de saúde, gratuito, 24h). Informações verificadas em 1º de novembro de 2026 no CVV e no Ministério da Saúde, com referências no material.
+
+`output/santa-monica.html` é o arquivo único para upload. O PDF está em `output/livro-completo/o-caminho-das-lagrimas-40-dias.pdf`.
+
+Conferências: 40 dias completos; três páginas por dia; preces distintas e rotuladas; orações tradicionais íntegras; fontes incorporadas; links internos válidos; inspeção das páginas renderizadas. A página foi verificada nas seis intenções e em larguras entre 320 e 1440 pixels, com bloqueio de áudio e checkout testados por simulação. Preço, checkout, áudio e demais condições comerciais continuam a depender das definições do usuário. Esta entrega contém arquivos para revisão e upload; não é um deploy de produção.
+
+O padrão de nomes para futuros anúncios está em `produto/identidade-oferta.md`. Arquivos de criativos não fazem parte desta revisão.
